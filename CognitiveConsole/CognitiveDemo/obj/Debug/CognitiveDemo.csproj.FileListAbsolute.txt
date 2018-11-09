@@ -1,0 +1,9 @@
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\bin\Debug\CognitiveDemo.exe.config
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\bin\Debug\CognitiveDemo.exe
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\bin\Debug\CognitiveDemo.pdb
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\obj\Debug\CognitiveDemo.csprojResolveAssemblyReference.cache
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\obj\Debug\CognitiveDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\obj\Debug\CognitiveDemo.exe
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\obj\Debug\CognitiveDemo.pdb
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shawn.AD1\source\repos\CognitiveDemo\CognitiveDemo\bin\Debug\Newtonsoft.Json.xml
